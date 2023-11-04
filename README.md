@@ -6,7 +6,7 @@ these steps:
 1. Clone the repository to your local machine.
 
    ```bash
-   git@github.com:Yazdun/react-animated-sidebar.git
+   git@github.com:Yazdun/react-burger-menu.git
    ```
 
 2. Open the cloned folder in your preferred code editor, install the required
